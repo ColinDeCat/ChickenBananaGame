@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 const scoreElement = document.getElementById('score');
 const gameOverElement = document.getElementById('gameOver');
 
-// Game constants
+// Game constants 10
 const WIDTH = 800;
 const HEIGHT = 600;
 const PLAYER_SIZE = 50;
